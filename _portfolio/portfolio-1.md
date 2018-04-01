@@ -1,7 +1,13 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Muse"
+excerpt: "An English handwriting synthesizer that can turn plain text into stylish writings and display them as animations.<br/> <a href='https://github.com/MrVPlusOne/Muse-CGH'>view on github<a/>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Muse can synthesize stylish English handwriting from plain texts. Its algorithm carefully connects strokes of adjacent characters to create cursive words and uses random perturbations to ensure that every character is unique in the rendering results.
+
+The following photo shows some rendered text printed on paper:
+
+<img src='https://github.com/MrVPlusOne/Muse-CGH/raw/master/Printed.jpg'/>
+
+<a href='https://github.com/MrVPlusOne/Muse-CGH'>view on github<a/>
