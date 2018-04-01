@@ -83,7 +83,7 @@ author:
   bio              : "PhD Student studying computer science at UT Austin"
   location         : "Austin, Texas"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com" #todo
+  googlescholar    : #todo
   email            : "wjydzh1@gmail.com"
   uri              :
   bitbucket        :
