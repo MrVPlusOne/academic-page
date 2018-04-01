@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiayi Wei's Homepage"
+title                    : "Jiayi Wei"
 title_separator          : "-"
 name                     : &name "Jiayi Wei"
 description              : &description "PhD Student at UT Austin"
@@ -78,9 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiayi Wei"
+  name             : "Jiayi Wei 魏家一"
   avatar           : "profile.png"
-  bio              : "PhD Student studying computer science at UT Austin"
+  bio              : "CS PhD Student at UT Austin"
   location         : "Austin, Texas"
   employer         :
   googlescholar    : #todo
