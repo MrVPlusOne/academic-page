@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-singularity
 excerpt: 'A new blackbox complexity testing technique for determining the worst-case asymptotic complexity of a given application.'
 date: 2018-03-10
-venue: 'Under submission'
+venue: 'Accepted'
 paperurl: ''
 citation: 'Jiayi Wei, Jia Chen, Yu Feng, Kostas Ferles, and Isil Dillig. (2018). &quot;Singularity: Pattern Fuzzing for Worst Case Complexity.&quot; <i>ESEC/FSE</i>.'
 ---
